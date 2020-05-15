@@ -4,13 +4,13 @@
 
 ### Description
 
-		I share my autoLearn System.
+	I share my autoLearn System.
 
-		autoLearn is a script that allows players to learns spells on Levelup.
+	autoLearn is a script that allows players to learns spells on Levelup.
 
-    Repository: https://github.com/Open-Wow/lua-autolearn
-    Download: https://github.com/Open-Wow/lua-autolearn/archive/master.zip
-    License: AGPL
+	Repository: https://github.com/Open-Wow/lua-autolearn
+	Download: https://github.com/Open-Wow/lua-autolearn/archive/master.zip
+	License: AGPL
 
 
 # Usage
