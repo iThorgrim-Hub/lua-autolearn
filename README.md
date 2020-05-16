@@ -27,6 +27,6 @@ If you encounter a bug please [open a issue](https://github.com/Open-Wow/lua-aut
 
 ## Credits
 
-* [open-wow](https://github.com/Open-Wow)
+* [Open-Wow](https://github.com/Open-Wow)
 
 AzerothCore: [repository](https://github.com/azerothcore) - [website](http://azerothcore.org/) - [discord chat community](https://discord.gg/PaqQRkd)
